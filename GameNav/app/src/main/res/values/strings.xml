@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GameNav</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+    <string name="appId">3451adb292f1b318e5c1bff378594fa7</string>
+    <string name="newsKey">6fd7606f440049fb8c1247fb4340ba3a</string>
+
+    <string-array name="gamePlatformsArray">
+        <item>Windows PC</item>
+        <item>Android</item>
+        <item>Apple</item>
+        <item>Play Station Console</item>
+        <item>XBox One Console</item>
+    </string-array>
+
+    <string-array name="gameGenreArray">
+        <item>Action</item>
+        <item>Advernture</item>
+        <item>Single Person Shooting</item>
+        <item>Third Person Shooting</item>
+        <item>Story Play</item>
+    </string-array>
+</resources>

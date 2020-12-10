@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Profile"></item>
+
+    <item
+        android:id="@+id/nav_interests"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Interests"></item>
+    <item
+        android:id="@+id/nav_news_feed"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="News Feed" />
+</menu>
